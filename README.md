@@ -1,4 +1,4 @@
-# Project Big Data 2
+# Project Big Data 2 (Kafka + Spark)
 
 ## Big Data A
 
