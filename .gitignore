@@ -1,2 +1,6 @@
 batch_*.csv
 dataset/
+rf_model_v2
+kmeans_model_v2
+full_data_v2.parquet
+als_model_v2
